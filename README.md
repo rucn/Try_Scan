@@ -13,7 +13,7 @@ Try_Scan:  一款用于辅助渗透测试工程师日常渗透测试的Burp被�
 
 - Log4jScan,对所有请求参数以及指定的header头进行Log4j Rce漏洞探测。
 - FastJsonScan，对POST内容为JSON或者POST参数为JSON处进行FastJson Rce漏洞探测。
-- NacosScan 探测是否存在Nacos系统，同时同步检测弱口令和未授权的接口(但是只有一个老版本的CVE没写进去)
+- NacosScan 探测是否存在Nacos系统，同时同步检测弱口令和未授权的接口(但是老版本的CVE暂时还没写进去，如果需要后续再扩充)
 
 ## 使用方法
 
